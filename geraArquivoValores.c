@@ -8,8 +8,8 @@ int main()
 
     scanf("%d%d", &m, &n);
     
-    //int mat[m][n];
-    for(l = 0; l < (m*n*3); l++) {
+    int mat[m][n];
+    for(l = 0; l < (m*n*2); l++) {
         printf("%i",rand() % (9 + 1 - 0) + 0);
         printf("\n");
     }
