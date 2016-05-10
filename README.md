@@ -1,2 +1,2 @@
 # PAD
-Alguns algoritmos relacionado com programação de alto desempenho
+Alguns algoritmos relacionados com programação de alto desempenho
